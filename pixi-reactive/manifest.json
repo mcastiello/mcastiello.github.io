@@ -2,7 +2,7 @@
   "short_name": "Pixi Reactive Test",
   "name": "Pixi Reactive Test",
   "icons": [],
-  "start_url": "./pixi-reactive/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
